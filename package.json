@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend finder app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndekis/FriendFinder.git"
+  },
+  "keywords": [
+    "express",
+    "friend",
+    "finder"
+  ],
+  "author": "John Dekis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johndekis/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/johndekis/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
